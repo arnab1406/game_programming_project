@@ -6,6 +6,10 @@ This repository is consists of the assignment(s) done for Game Programming 15323
 
 An implementation of the popular Flappy Bird Game using Python
 
+## Snapshot:
+
+
+
 ## Directions of Usage:
 
 - Clone or Download this repo ⏬
