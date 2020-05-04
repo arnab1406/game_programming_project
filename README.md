@@ -1,6 +1,6 @@
 # Game Programming Capstone Project 📑
 
-This repository is consists of the assignment(s) done for Game Programming 15323E during Spring 2020 at SRM IST. 
+This repository is consists of the assignment(s) done for Game Programming 15CS323E during Spring 2020 at SRM IST. 
 
 ## Topic 
 
