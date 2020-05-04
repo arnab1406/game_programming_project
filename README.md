@@ -12,19 +12,21 @@ An implementation of the popular Flappy Bird Game using Python
 
 <h2 align= "center"><b>Directions of Usage: </b></h2>
 
-- Clone or Download this repo ⏬
-- Open the Terminal 🐱‍💻
+- Clone this repository ⏬
 - Move inside 👉 the repo 
-```cd game_programming_project```
-- Now start the game: ```python flappy_bird.py```
+    - Open the Terminal 👩‍💻
+    - and type ```cd smileplease```
+- Now make sure you have all the dependencies🧱 
+  - Type in the terminal:```pip install -r requirements.txt```
+- Now start the game:
+     - Type in the terminal ```python flappy_bird.py```
 
 
-# Supervisor: 
+<h2 align= "center"><b>Supervisor</b></h2>
 
 [Ms.R.Sangeetha](https://www.srmist.edu.in/engineering/dept-cse/faculty/r-anita) 
 
-
-# License 📜
+<h2 align= "center"><b>License📜</b></h2>
 
 [MIT License](https://github.com/smaranjitghose/game_programming_project/blob/master/LICENSE)
 
