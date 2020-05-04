@@ -6,6 +6,14 @@ This repository is consists of the assignment(s) done for Game Programming 15323
 
 An implementation of the popular Flappy Bird Game using Python
 
+## Directions of Usage:
+
+- Clone or Download this repo ⏬
+- Open the Terminal 🐱‍💻
+- Move inside 👉 the repo 
+```cd game_programming_project```
+- Now start the game: ```python swish_birdie.py```
+
 
 # Supervisor: 
 
