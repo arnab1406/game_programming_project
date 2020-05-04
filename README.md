@@ -1,22 +1,22 @@
-# Game Programming Capstone Project 📑
+<h3 align= "center"><b> Game Programming Capstone Project 📑 </b></h3>
 
 This repository is consists of the assignment(s) done for Game Programming 15CS323E during Spring 2020 at SRM IST. 
 
-## Topic 
+<h3 align= "center"><b> Topic: </b></h3>
 
 An implementation of the popular Flappy Bird Game using Python
 
-## Snapshot:
+<h3 align= "center"><b>Snapshot: </b></h3>
 
+<p align="center"><img width=50% src="assets/snapshot.png"></p>
 
-
-## Directions of Usage:
+<h2 align= "center"><b>Directions of Usage: </b></h2>
 
 - Clone or Download this repo ⏬
 - Open the Terminal 🐱‍💻
 - Move inside 👉 the repo 
 ```cd game_programming_project```
-- Now start the game: ```python swish_birdie.py```
+- Now start the game: ```python flappy_bird.py```
 
 
 # Supervisor: 
@@ -28,4 +28,6 @@ An implementation of the popular Flappy Bird Game using Python
 
 [MIT License](https://github.com/smaranjitghose/game_programming_project/blob/master/LICENSE)
 
-# **Crafted with ❤ by Smaranjit Ghose**
+
+<h2 align= "center"><b>Crafted with ❤ by Smaranjit Ghose</b></h2>
+
